@@ -17,7 +17,7 @@ Busco implementar nuevas formas de solucionar problemas ya existentes.
 ¿Que tecnologías uso?
 
 Mi stack de tecnologías incluyen:
-PostgreSQl - Sequelize - Node.js - React.js - Redux - MongoDB - Javascript
+PostgreSQl - Sequelize - Node.js - React.js - Redux - Express.js - MongoDB - Javascript
 
 <!--
 **ElRobertRocha91/ElRobertRocha91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
