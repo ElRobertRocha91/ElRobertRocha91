@@ -1,22 +1,22 @@
-Hola! Me llamo Roberto Esteban Rocha
+Hello! My name is Roberto Esteban Rocha.
 
-¿Quien soy?
+Who am I?
 
-Soy Developer Fullstack con orientación en Front-end y Back-end.
-Desde hace un tiempo me intereso la tecnología y encontre en la programación una forma de poder aplicar mi pasión al trabajo. Contribuyendo a generar un impacto positivo en mi entorno.
+I´m a Full-Stack Jr. Developer oriented in Front-end and Back-end.
+For some time I've ben interested in technology and I found in programming a way to apply my passion to my work. Contributing to generate a positiv impact in my environment.
 
-¿Que hago?
+What do I do?
 
-Actualmente me dedico a crear proyectos que me permitan aprender y aplicar las tecnologías aprendidas. Teniendo a JavaScript como mi primer lenguaje aprendido.
+Currently I dedicate myself to create projects that allow me to learn and apply the technologies I've learned. Having JavaScript as my first learned language.
 
-¿Que busco?
+What am I looking for?
 
-Mi principal objetivo es crear código de alto impacto, que contribuya a resolver los problemas que puedan presentarse en el día a día y colocarme en la vanguardía de las soluciones tecnologicas a las nuevas necesidades que surjan.
-Busco implementar nuevas formas de solucionar problemas ya existentes.
+My main goal is to create high impact code, that contributes to solve the problems that may arise in the day to day and place me at the forefront of technological solutions to new needs that arise.
+I seek to implement new ways to solve existing problems.
 
-¿Que tecnologías uso?
+What technologies do I use?
 
-Mi stack de tecnologías incluyen:
+My stack of technologies include:
 PostgreSQl - Sequelize - Node.js - React.js - Redux - Express.js - MongoDB - Javascript
 
 <!--
