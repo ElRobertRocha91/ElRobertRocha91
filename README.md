@@ -2,7 +2,7 @@ Hello! My name is Roberto Esteban Rocha.
 
 Who am I?
 
-I´m a Full-Stack Jr. Developer oriented in Front-end and Back-end.
+I´m a Full-Stack Developer oriented in Front-end and Back-end.
 For some time I've ben interested in technology and I found in programming a way to apply my passion to my work. Contributing to generate a positiv impact in my environment.
 
 What do I do?
