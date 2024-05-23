@@ -5,7 +5,7 @@
 - Tengo 33 años vivo en Raamos Mejía, Provincia de Buenso Aires, Argentina.
 - Mi stack de tecnologias es MERN
 - Especialista en desarrolllo web y frontend utilizando React con integraciones a Backend y Base de datos SQL y NoSQL.
-- Interesado y apasionado por la tecnología, busco ofrecer soluciones digitales de alta calidad que mejoren la experiencia al usuario y aporten vaalor a las necesidades empresariales.
+- Interesado y apasionado por la tecnología, busco ofrecer soluciones digitales de alta calidad que mejoren la experiencia al usuario y aporten valor a las necesidades empresariales.
 
 ### ¿Que tecnologías uso?
 - Frontend 
