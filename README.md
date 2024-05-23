@@ -9,6 +9,7 @@
 
 ### ¿Que tecnologías uso?
 - Frontend
+<br/>
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -16,6 +17,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 <br/>
 - Backend
+<br/>
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -24,7 +26,7 @@
 
 ### Contactame
 <a href="https://www.linkedin.com/in/roberto-esteban-rocha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>  
-<a href="robertoestebanrocha91@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="robertoestebanrocha91@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-robertoestebanrocha91@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 Who am I?
 
