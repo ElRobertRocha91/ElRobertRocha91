@@ -25,21 +25,6 @@
 <a href="https://www.linkedin.com/in/roberto-esteban-rocha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roberto%20Rocha-blue?style=flat-square&logo=linkedin"></a>  
 <a href="robertoestebanrocha91@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-robertoestebanrocha91@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-Who am I?
-
-I´m a Full-Stack Developer oriented in Front-end and Back-end.
-For some time I've ben interested in technology and I found in programming a way to apply my passion to my work. Contributing to generate a positiv impact in my environment.
-
-What do I do?
-
-Currently I dedicate myself to create projects that allow me to learn and apply the technologies I've learned. Having JavaScript as my first learned language.
-
-What am I looking for?
-
-My main goal is to create high impact code, that contributes to solve the problems that may arise in the day to day and place me at the forefront of technological solutions to new needs that arise.
-I seek to implement new ways to solve existing problems.
-
-
 <!--
 **ElRobertRocha91/ElRobertRocha91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
