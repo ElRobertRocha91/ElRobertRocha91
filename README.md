@@ -7,6 +7,25 @@
 - Especialista en desarrolllo web y frontend utilizando React con integraciones a Backend y Base de datos SQL y NoSQL.
 - Interesado y apasionado por la tecnología, busco ofrecer soluciones digitales de alta calidad que mejoren la experiencia al usuario y aporten vaalor a las necesidades empresariales.
 
+### ¿Que tecnologías uso?
+- Frontend
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+<br/>
+- Backend
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+
+### Contactame
+<a href="https://www.linkedin.com/in/roberto-esteban-rocha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>  
+<a href="robertoestebanrocha91@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+
 Who am I?
 
 I´m a Full-Stack Developer oriented in Front-end and Back-end.
@@ -21,10 +40,6 @@ What am I looking for?
 My main goal is to create high impact code, that contributes to solve the problems that may arise in the day to day and place me at the forefront of technological solutions to new needs that arise.
 I seek to implement new ways to solve existing problems.
 
-What technologies do I use?
-
-My stack of technologies include:
-PostgreSQl - Sequelize - Node.js - React.js - Redux - Express.js - MongoDB - Javascript
 
 <!--
 **ElRobertRocha91/ElRobertRocha91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
