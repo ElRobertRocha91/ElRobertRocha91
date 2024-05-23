@@ -1,6 +1,12 @@
 <h1>Hola! Soy Roberto Esteban Rocha <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 <h2>Desarrollador Web & Desarrollador Frontend</h2>
 
+### Sobre Mí 
+- Tengo 33 años vivo en Raamos Mejía, Provincia de Buenso Aires, Argentina.
+- Mi stack de tecnologias es MERN
+- Especialista en desarrolllo web y frontend utilizando React con integraciones a Backend y Base de datos SQL y NoSQL.
+- Interesado y apasionado por la tecnología, busco ofrecer soluciones digitales de alta calidad que mejoren la experiencia al usuario y aporten vaalor a las necesidades empresariales.
+
 Who am I?
 
 I´m a Full-Stack Developer oriented in Front-end and Back-end.
