@@ -6,6 +6,7 @@
 - Mi stack de tecnologias es MERN
 - Especialista en desarrolllo web y frontend utilizando React con integraciones a Backend y Base de datos SQL y NoSQL.
 - Interesado y apasionado por la tecnología, busco ofrecer soluciones digitales de alta calidad que mejoren la experiencia al usuario y aporten valor a las necesidades empresariales.
+- Actualmente estudiando en la Universidad Tecnológica Nacional la Tecnicatura Universitaria en Programación.
 
 ### ¿Que tecnologías uso?
 <h3>Frontend</h3>
