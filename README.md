@@ -1,12 +1,14 @@
 <h1>Hola! Soy Roberto...<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Desarrollador Web & Desarrollador Frontend</h2>
+<h2>Desarrollador Web Full Stack Jr</h2>
 
 ### Sobre Mí 
 - Tengo 33 años vivo en Ramos Mejía, Provincia de Buenso Aires, Argentina.
-- Mi stack de tecnologias es MERN
-- Especialista en desarrolllo web y frontend utilizando React con integraciones a Backend y Base de datos SQL y NoSQL.
-- Interesado y apasionado por la tecnología, busco ofrecer soluciones digitales de alta calidad que mejoren la experiencia al usuario y aporten valor a las necesidades empresariales.
-- Actualmente estudiando en la Universidad Tecnológica Nacional la Tecnicatura Universitaria en Programación.
+- Mi stack de tecnologias es MERN (Mongo - Express - React - Node).
+- Cuento con 1 año de experiencia en desarrollo web y frontend utilizando React con integraciones a Backend desarrollados en Node, y a Base de Datos realizadas con PostgreSQL y MongoDB.
+- Interesado y apasionado por la tecnología, busco ofrecer soluciones digitales de alta calidad que mejoren la experiencia del usuario y aporten valor a las necesidades empresariales.
+- Actualmente estudiando en la Universidad Tecnológica Nacional la Tecnicatura Superior en Programación.
+- Aparte cuento con una Licenciatura en Administración, con amplios conocimientos en gestión empresarial, comercialización, contabilidad, finanzas, auditoría, impuestos, RR.HH, macroeconómia y derecho comercial.
+- Por ultimo, tengo amplia experiencia (+5 años) trabajando en empresas de servicios de Retail, COTO C.I.C.S.A. y Cencosud S.A.
 
 ### ¿Que tecnologías uso?
 <h3>Frontend</h3>
@@ -21,8 +23,10 @@
 
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+<h3>Base de Datos</h3>
+
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Contactame
