@@ -4,10 +4,10 @@
 ### Sobre Mí 
 - Tengo 33 años vivo en Ramos Mejía, Provincia de Buenso Aires, Argentina.
 - Mi stack de tecnologias es MERN (Mongo - Express - React - Node).
-- Cuento con 1 año de experiencia en desarrollo web y frontend utilizando React con integraciones a Backend desarrollados en Node, y a Base de Datos realizadas con PostgreSQL y MongoDB.
+- Cuento con 1 año de experiencia practica como desarrollador full stack utilizando React.js en el Frontend, Node.js en el desarrollo de Backend, PostgrSQL y MongoDB en el desarrollo de Base de Datos, actualmente ampliando mi stack con Python y Java.
 - Interesado y apasionado por la tecnología, busco ofrecer soluciones digitales de alta calidad que mejoren la experiencia del usuario y aporten valor a las necesidades empresariales.
 - Actualmente estudiando en la Universidad Tecnológica Nacional la Tecnicatura Superior en Programación.
-- Aparte cuento con una Licenciatura en Administración, con amplios conocimientos en gestión empresarial, comercialización, contabilidad, finanzas, auditoría, impuestos, RR.HH, macroeconómia y derecho comercial.
+- Aparte tengo estudios finalizados en Licenciatura en Administración, con conocimientos en gestión empresarial, comercialización, contabilidad, finanzas, auditoría, impuestos, RR.HH, macroeconómia y derecho comercial.
 - Por ultimo, tengo amplia experiencia (+5 años) trabajando en empresas de servicios de Retail, COTO C.I.C.S.A. y Cencosud S.A.
 
 ### ¿Que tecnologías uso?
