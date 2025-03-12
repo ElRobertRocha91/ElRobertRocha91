@@ -1,14 +1,13 @@
 <h1>Hola! Soy Roberto...<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Desarrollador Web Full Stack Jr</h2>
+<h2>Desarrollador Web Full Stack Jr con orientación al Frontend</h2>
 
 ### Sobre Mí 
-- Tengo 33 años vivo en Ramos Mejía, Provincia de Buenso Aires, Argentina.
+- Tengo 34 años vivo en Ramos Mejía, Provincia de Buenso Aires, Argentina.
 - Mi stack de tecnologias es MERN (Mongo - Express - React - Node).
-- Cuento con 1 año de experiencia practica como desarrollador full stack utilizando React.js en el Frontend, Node.js en el desarrollo de Backend, PostgreSQL y MongoDB en el desarrollo de Base de Datos, actualmente ampliando mi stack con Java.
+- Cuento con 1 año de experiencia practica como desarrollador full stack utilizando React.js en el Frontend, Node.js en el desarrollo de Backend, PostgreSQL y MongoDB en el desarrollo de Base de Datos, actualmente ampliando mi stack con Java, C#, Bootstrap y Tailwind CSS.
 - Interesado y apasionado por la tecnología, busco ofrecer soluciones digitales de alta calidad que mejoren la experiencia del usuario y aporten valor a las necesidades empresariales.
-- Actualmente estudiando en la Universidad Tecnológica Nacional la Tecnicatura Superior en Programación.
-- Aparte tengo estudios finalizados en Licenciatura en Administración, con conocimientos en gestión empresarial, comercialización, contabilidad, finanzas, auditoría, impuestos, RR.HH, macroeconómia y derecho comercial.
-- Por ultimo, tengo amplia experiencia (+5 años) trabajando en empresas de servicios de Retail, COTO C.I.C.S.A.
+- Actualmente estudiando en la Universidad Tecnológica Nacional la Tecnicatura Universitaria en Programación.
+- Cuento con una Licenciatura en Administración y 5 años de experiencia laboral trabajando en empresas de Retail (Coppel, Jumbo Retail y COTO) como representante de servicios al cliente, cajero senior y administrativo de E-Commerce.
 
 ### ¿Que tecnologías uso?
 <h3>Frontend</h3>
