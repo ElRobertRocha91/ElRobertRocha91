@@ -4,9 +4,9 @@
 ### Sobre Mí 
 - Actualmente estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional.
 - Mi stack de tecnologias es MERN (Mongo - Express - React - Node).
-- Cuento con 1 año de experiencia practica como desarrollador full stack utilizando React.js en el Frontend, Node.js en el desarrollo de Backend, PostgreSQL y MongoDB en el desarrollo de Base de Datos, actualmente ampliando mi stack con Java, C#, Bootstrap y Tailwind CSS.
+- Cuento con 1 año de experiencia practica como desarrollador full stack utilizando React.js en el Frontend, Node.js en el desarrollo de Backend, PostgreSQL y MongoDB en el desarrollo de Base de Datos, actualmente ampliando mi stack con Java, Next.js, Bootstrap y Tailwind CSS.
 - Interesado y apasionado por la tecnología, busco ofrecer soluciones digitales de alta calidad que mejoren la experiencia del usuario y aporten valor a las necesidades empresariales.
-- Cuento con una Licenciatura en Administración y 5 años de experiencia laboral trabajando en empresas de Retail (Coppel, Jumbo Retail y COTO) como representante de servicios al cliente, cajero senior y administrativo de E-Commerce.
+- Tengo estudios universitarios completos en Licenciatura en Administración y 5 años de experiencia laboral trabajando en empresas de Retail (Coppel S.A., Jumbo Retail y COTO C.I.C.S.A.) como representante de servicios al cliente, cajero senior y administrativo de E-Commerce.
 
 ### ¿Que tecnologías uso?
 <h3>Frontend</h3>
