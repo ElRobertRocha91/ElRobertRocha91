@@ -1,5 +1,5 @@
 <h1>Hola! Soy Roberto...<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Desarrollador Web Full Stack Jr con orientación al Frontend</h2>
+<h2>Desarrollador Web Full Stack Jr</h2>
 
 ### Sobre Mí 
 - Actualmente estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional y realizando el curso de experto universitario en Programación Web Full Stack en la misma universidad.
