@@ -28,7 +28,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Contactame
-<a href="https://www.linkedin.com/in/roberto-esteban-rocha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roberto%20Rocha-blue?style=flat-square&logo=linkedin"></a>  
+<a href="https://www.linkedin.com/in/roberto91/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roberto%20Rocha-blue?style=flat-square&logo=linkedin"></a>  
 <a href="robertoestebanrocha91@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-robertoestebanrocha91@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 <!--
