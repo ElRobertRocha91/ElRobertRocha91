@@ -2,11 +2,11 @@
 <h2>Desarrollador Web Full Stack Jr</h2>
 
 ### Sobre Mí 
-- Actualmente estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional y realizando el curso de experto universitario en Programación Web Full Stack en la misma universidad.
+- Actualmente estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional y realizando el curso de experto universitario en Programación Web Full Stack en el Centro e-Learning UTN FRBA.
 - Mi stack de tecnologias es MERN (Mongo - Express - React - Node).
 - Cuento con 1 año de experiencia practica como desarrollador full stack utilizando React.js en el Frontend, Node.js con express en el desarrollo de Backend, con PostgreSQL y MongoDB en el desarrollo de Base de Datos, actualmente ampliando mi stack con Java, Next.js, Bootstrap y Tailwind CSS.
 - Interesado y apasionado por la tecnología, busco ofrecer soluciones digitales de alta calidad que mejoren la experiencia del usuario y aporten valor a las necesidades empresariales.
-- Aparte cuento con estudios universitarios completos en Licenciatura en Administración y 5 años de experiencia laboral trabajando en empresas de Retail (Coppel S.A., Jumbo Retail y COTO C.I.C.S.A.) como representante de servicios al cliente, administrativo de E-Commerce y cajero senior.
+- Licenciado en Administración con 5 años de experiencia laboral trabajando en empresas de Retail y servicios (Coppel S.A., Jumbo Retail y COTO C.I.C.S.A.) como auxiliar de E-Commerce, representante de serivios al cliente y cajero senior.
 
 ### ¿Que tecnologías uso?
 <h3>Frontend</h3>
