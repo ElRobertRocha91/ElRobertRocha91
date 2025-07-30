@@ -52,15 +52,15 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo"  />
-  <img width="69" />
+  <img width="70" />
   <img src="https://skillicons.dev/icons?i=express" height="70" alt="express logo"  />
-  <img width="69" />
+  <img width="70" />
   <img src="https://cdn.simpleicons.org/handlebarsdotjs/000000" height="70" alt="handlebars logo"  />
-  <img width="69" />
+  <img width="70" />
   <img src="https://skillicons.dev/icons?i=java" height="70" alt="java logo"  />
-  <img width="69" />
+  <img width="70" />
   <img src="https://skillicons.dev/icons?i=spring" height="70" alt="spring logo"  />
-  <img width="69" />
+  <img width="70" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="70" alt="mysql logo"  />
 </div>
 
