@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"  />
+  <img height="700" src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"  />
 </div>
 
 ###
@@ -17,10 +17,6 @@
 ###
 
 <h4 align="left">📚 Estudiante de la Tecnicatura Universitaria en Programación en la UTN, me capacito en el Desarrollado Web Full Stack. Obtuve la certificación de Experto Universitario en Programación Web Full Stack en el Centro e-Learning UTN FRBA, actualmente estoy ampliando mis conocimientos en el Desarrollo Backend con Java a través de la Agencia de Habilidades para el Futuro - Buenos Aires Ciudad, dentro del programa de capacitación laboral "Talento Tech" del Gobierno de la Ciudad de Buenos Aires.<br><br>💻 Me especializo en desarrollo Frontend con HTML5, CSS, JavaScript y React.js, mientras que en el desarrollo Backend con Node.js, Express, Handlebars y MySQL. Aplicando patrones de diseño MVC, POO, API REST y operaciones CRUD, siguiendo los principios de desarrollo SOLID y Clean Code. Priorizo la accesibilidad, usabilidad y la experiencia del usuario en cada proyecto. Mi enfoque se basa en crear soluciones robustas, funcionales y escalables.<br><br>📊 Además soy Licenciado en Administración, con amplia experiencia laboral en empresas de retail y servicios en roles de atención al cliente, gestión administrativa y operaciones E-Commerce. Esta trayectoria me ha aportado habilidades interdisciplinarias clave como la resolución de problemas, el trabajo en equipo, la mejora continua y adaptación al cambio. Estas competencias se adaptan perfectamente en mi nuevo camino profesional dentro del desarrollo web full stack, ya que me brindan una visión operativa y enfocada en el usuario final, ideal para crear soluciones digitales efectivas, funcionales y centradas en las personas.<br><br>🚀 Me motiva aprender y crecer profesionalmente, busco contribuir a proyectos innovadores que integren tecnología y valor humano. Si estás buscando un profesional comprometido, con mentalidad colaborativa y pasión por el desarrollo web, estaré encantado de conectar.<br><br>📫 Información de Contacto <br>📧 Correo electrónico: robertoestebanrocha91@gmail.com <br>💻 LinkedIn: https://www.linkedin.com/in/roberto91/</h4>
-
-###
-
-<h4 align="left">////////////////////////////////////////////////////////////////////////////////////////////////////////////////////</h4>
 
 ###
 
@@ -98,11 +94,11 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
-  <img width="17" />
+  <img width="50" />
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="40" alt="intellijidea logo"  />
-  <img width="17" />
+  <img width="50" />
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="40" alt="windows8 logo"  />
-  <img width="17" />
+  <img width="50" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
 </div>
 
