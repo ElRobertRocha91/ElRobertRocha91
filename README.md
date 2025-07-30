@@ -46,20 +46,20 @@
 
 ###
 
-<h2 align="left">Backend</h2>
+<h2 align="center">Backend</h2>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="100" alt="nodejs logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="70" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="100" alt="express logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/handlebarsdotjs/000000" height="70" alt="handlebars logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="70" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="100" alt="java logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=spring" height="70" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="100" alt="spring logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="70" alt="mysql logo"  />
 </div>
