@@ -50,17 +50,17 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo"  />
-  <img width="70" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" height="70" alt="express logo"  />
-  <img width="70" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/handlebarsdotjs/000000" height="70" alt="handlebars logo"  />
-  <img width="70" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="70" alt="java logo"  />
-  <img width="70" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=spring" height="70" alt="spring logo"  />
-  <img width="70" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="70" alt="mysql logo"  />
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="50" alt="git logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="50" alt="github logo"  />
 </div>
 
