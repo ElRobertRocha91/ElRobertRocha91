@@ -51,16 +51,16 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="100" alt="nodejs logo"  />
-  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="100" width="50" alt="nodejs logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=express" height="100" alt="express logo"  />
-  <img width="10" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/handlebarsdotjs/000000" height="70" alt="handlebars logo"  />
-  <img width="10" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=java" height="100" alt="java logo"  />
-  <img width="10" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=spring" height="100" alt="spring logo"  />
-  <img width="10" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="70" alt="mysql logo"  />
 </div>
 
@@ -94,11 +94,11 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
-  <img width="50" />
+  <img width="20" />
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="40" alt="intellijidea logo"  />
-  <img width="50" />
+  <img width="20" />
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="40" alt="windows8 logo"  />
-  <img width="50" />
+  <img width="20" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
 </div>
 
