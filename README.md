@@ -37,8 +37,10 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="react logo"  />
   <img width="10" />
+  <!--
   <img src="https://skillicons.dev/icons?i=vite" height="70" alt="vite logo"  />
   <img width="10" />
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="70" alt="redux logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="70" alt="bootstrap logo"  />
@@ -51,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="100" width="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="200" width="50" alt="nodejs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=express" height="100" alt="express logo"  />
   <img width="20" />
