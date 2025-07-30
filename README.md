@@ -53,17 +53,17 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="200" width="50" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" alt="nodejs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="100" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="70" alt="express logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/handlebarsdotjs/000000" height="70" alt="handlebars logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="70" alt="handlebars logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="100" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=spring" height="100" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70" alt="spring logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="70" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="mysql logo"  />
 </div>
 
 ###
