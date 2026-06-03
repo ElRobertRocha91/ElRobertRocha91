@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img height="700" src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"  />
-</div>
-
-###
-
 <h2 align="left">Sobre mí</h2>
 
 ###
