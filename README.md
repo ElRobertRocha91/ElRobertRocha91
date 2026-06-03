@@ -1,8 +1,5 @@
 <h1 align="center">Hola, soy Roberto👋</h1>
-
-###
-
-<h2 align="center">💻 Desarrollador Web Full Stack </h2>
+<h1 align="center">💻 Desarrollador Web Full Stack </h1>
 
 ###
 
