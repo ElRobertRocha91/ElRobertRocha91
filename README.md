@@ -1,16 +1,18 @@
-<h1 align="center">Hola, soy Roberto👋</h1>
-<h1 align="center">💻 Desarrollador Web Full Stack </h1>
+<h1 align="center"> Lic. en Administración 📊 & Desarrollador Web Full Stack Trainee 💻</h1>
 
 ###
 
 <h2 align="left">Sobre mí</h2>
 
 ###
-
-<h4 align="left">📚 Estudiante de Ingeniería en Informática en la Universidad Nacional de La Matanza. Además obtuve la certificación de Experto Universitario en Programación Web Full Stack en el Centro e-Learning Universidad Tecnológica Nacional FRBA, actualmente ampliando mis conocimientos en Desarrollo Backend con Java y Desarrollo Frontend con React, a través de la Agencia de Habilidades para el Futuro, dentro del programa de capacitación laboral "Talento Tech" del Gobierno de la Ciudad de Buenos Aires.<br><br>💻 Me especializo en desarrollo Frontend con HTML5, CSS, JavaScript, React.js y Bootstrap, mientras que en el desarrollo Backend con Node.js, Express, Handlebars, Java, Spring Boot y MySQL, como almacenamiento de datos. Aplicando patrones de diseño MVC, principios de la programación orientada a objetos y operaciones CRUD, siguiendo los principios de desarrollo SOLID y Clean Code. Priorizo la accesibilidad, usabilidad y la experiencia del usuario en cada proyecto. Mi enfoque se basa en crear soluciones web adaptables, funcionales y escalables.<br><br>📊 También soy Licenciado en Administración, con amplia experiencia laboral en gestión de procesos administrativos, atención al cliente y soporte operativo a E-Commerce en empresas del sector retail. Esta trayectoria me ha aportado habilidades interdisciplinarias clave como la resolución de problemas, el trabajo en equipo, la mejora continua y adaptación al cambio. Estas competencias se adaptan perfectamente en mi nuevo camino profesional dentro del desarrollo web full stack, ya que me brindan una visión operativa y enfocada en el usuario final, ideal para crear soluciones digitales efectivas, funcionales y centradas en las personas.<br><br>🚀 Me motiva aprender y crecer profesionalmente, busco contribuir a proyectos innovadores que integren tecnología y valor humano. Si estás buscando un profesional comprometido, con mentalidad colaborativa y pasión por el desarrollo web, estaré encantado de conectar.<br><br>📫 Información de Contacto <br>📧 Correo electrónico: robertoestebanrocha91@gmail.com <br>💻 LinkedIn: https://www.linkedin.com/in/roberto91/</h4>
+<h4 align="left">
+Hola, soy Roberto👋. Licenciado en Administración con más de 5 años de experiencia en Retail y E-Commerce. Especializado en atención al cliente, gestión de caja y conciliaciones contables, esta trayectoria me ha aportado habilidades interdisciplinarias clave como la resolución de problemas, el trabajo en equipo, la mejora continua y adaptación al cambio. Estudiante de Ingeniería en Informática en la Universidad Nacional de La Matanza, con formación complementaria en Programación Web Full Stack en la Universidad Tecnológica Nacional FRBA. En transición al sector IT, aplicando mis conocimientos en construir aplicaciones web completas, desde la interfaz de usuario hasta la lógica del servidor. Busco aportar valor en la transformación digital y seguir creciendo profesionalmente en el ecosistema tecnológico.
+  
+<br>📫 Información de Contacto <br>📧 Correo electrónico: robertoestebanrocha91@gmail.com <br>💻 LinkedIn: https://www.linkedin.com/in/roberto91/
+</h4>
 
 ###
-
+  <!--
 <h1 align="center">Mi stack de tecnologías</h1>
 
 ###
@@ -28,10 +30,10 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="react logo"  />
   <img width="10" />
-  <!--
+
   <img src="https://skillicons.dev/icons?i=vite" height="70" alt="vite logo"  />
   <img width="10" />
-  -->
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="70" alt="redux logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="70" alt="bootstrap logo"  />
@@ -114,7 +116,7 @@
 </div>
 
 ###
-
+-->
 <!--
 <h1>Hola! Soy Roberto...<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 <h2>Programador Web Full Stack Jr</h2>
