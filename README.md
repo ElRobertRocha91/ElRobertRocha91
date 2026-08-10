@@ -1,4 +1,4 @@
-<h1 align="center"> Lic. en Administración 📊 & Desarrollador Web Full Stack Trainee 💻</h1>
+<h1 align="center"> Lic. en Administración & Desarrollador Web Full Stack Trainee </h1>
 
 ###
 
