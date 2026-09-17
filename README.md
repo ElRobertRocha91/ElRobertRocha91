@@ -5,13 +5,14 @@
 <h2 align="left">Sobre mí</h2>
 
 ###
-<h4 align="left">
+<p align="left">
 ¡Hola, soy Roberto👋! 
 <br>
 Licenciado en Administración con más de 5 años de experiencia en atención al cliente, conciliaciones contables y optimización de procesos administrativos en entornos de Retail y E-Commerce, esta trayectoria me ha aportado habilidades interdisciplinarias clave como la resolución de problemas, el trabajo en equipo, la mejora continua y adaptación al cambio.
 En transición al sector IT, actualmente curso Ingeniería en Informática en la Universidad Nacional de La Matanza, con formación complementaria en Programación Web Full Stack en la Universidad Tecnológica Nacional FRBA. 
 <br>
 Busco aportar valor en la transformación digital y seguir creciendo profesionalmente en el ecosistema tecnológico.
+</p>
 
 <h2>Proyectos</h2>
 
@@ -26,8 +27,9 @@ Busco aportar valor en la transformación digital y seguir creciendo profesional
 
 <p>Sistema de gestión con la funcionalidad de gestionar un stock de productos, como así también gestionar ventas permitiendo generar pedidos para el cliente.</p>
 
-- Repositorio: 
-  
+- Repositorio: https://github.com/ElRobertRocha91/TechLab
+
+<h4>
 <br>📫 Información de Contacto <br>📧 Correo electrónico: robertoestebanrocha91@gmail.com <br>💻 LinkedIn: https://www.linkedin.com/in/roberto91/
 </h4>
 
