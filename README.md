@@ -19,14 +19,14 @@ Busco aportar valor en la transformación digital y seguir creciendo profesional
 
 <p>E-Commerce que integra un carrito de compras dinámico, campos de búsqueda personalizada, login para la autenticación de usuarios y un dashboard administrativo para la gestión eficiente del cátalogo de productos</p>
 
-- Repositorio:
+- Repositorio: https://github.com/ElRobertRocha91/tienda-online
 - Sitio web: https://tienda-online-fawn-sigma.vercel.app/
 
 <h3>TECH LAB</h3>
 
 <p>Sistema de gestión con la funcionalidad de gestionar un stock de productos, como así también gestionar ventas permitiendo generar pedidos para el cliente.</p>
 
--Repositorio: 
+- Repositorio: 
   
 <br>📫 Información de Contacto <br>📧 Correo electrónico: robertoestebanrocha91@gmail.com <br>💻 LinkedIn: https://www.linkedin.com/in/roberto91/
 </h4>
