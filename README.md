@@ -23,7 +23,7 @@ Busco aportar valor en la transformación digital y seguir creciendo profesional
 - Repositorio: https://github.com/ElRobertRocha91/tienda-online
 - Sitio web: https://tienda-online-fawn-sigma.vercel.app/
 
-<h3>TECH LAB</h3>
+<h3>Tech Lab</h3>
 
 <p>Sistema de gestión con la funcionalidad de gestionar un stock de productos, como así también gestionar ventas permitiendo generar pedidos para el cliente.</p>
 
