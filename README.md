@@ -8,7 +8,7 @@
 <p align="left">
 ¡Hola, soy Roberto👋! 
 <br>
-Licenciado en Administración con más de 5 años de experiencia en atención al cliente, conciliaciones contables y optimización de procesos administrativos en entornos de Retail y E-Commerce, esta trayectoria me ha aportado habilidades interdisciplinarias clave como la resolución de problemas, el trabajo en equipo, la mejora continua y adaptación al cambio.
+Licenciado en Administración con más de 7 años de experiencia en atención al cliente, conciliaciones contables y optimización de procesos administrativos en entornos de Retail y E-Commerce, esta trayectoria me ha aportado habilidades interdisciplinarias clave como la resolución de problemas, el trabajo en equipo, la mejora continua y adaptación al cambio.
 En transición al sector IT, actualmente curso Ingeniería en Informática en la Universidad Nacional de La Matanza, con formación complementaria en Programación Web Full Stack en la Universidad Tecnológica Nacional FRBA. 
 <br>
 Busco aportar valor en la transformación digital y seguir creciendo profesionalmente en el ecosistema tecnológico.
